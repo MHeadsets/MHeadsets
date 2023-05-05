@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is michael! I am a budding new software developer trying to learn and absorb all I can. 
+
+Currently I am enrolled at Tech Elevator, excitedly waiting for the program to begin so I can have a stable job in software development by the end of the year.
 <!--
 **MHeadsets/MHeadsets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
